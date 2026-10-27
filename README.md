@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm Afraz Anwar Hussain 👋
 
 ### Computer Engineering Student \| Backend Software Engineering \| DevOps \| AI & Computer Vision
