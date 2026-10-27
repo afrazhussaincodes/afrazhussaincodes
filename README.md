@@ -209,7 +209,4 @@ Streak](https://streak-stats.demolab.com?user=afrazhussaincodes&hide_border=true
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-*Interested in backend engineering, DevOps, and AI-powered software
-projects.*
-:::
+
