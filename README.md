@@ -85,10 +85,7 @@ browsing, application submission, recruiter job management, application
 review, and hiring-status tracking. The project work includes REST APIs,
 database persistence, Selenium browser tests, and a Jenkins CI/CD
 workflow.
-
-> The resume describes this project, but I could not confidently match
-> it to a public repository on this GitHub account. Add the repository
-> link here once it is available.
+[View repository](https://github.com/afrazhussaincodes/recruitment-ats)
 
 ### 2. VIVA AI Interview & Proctoring Platform
 
@@ -101,9 +98,8 @@ follow-up questions. Its computer-vision proctoring component is
 described as detecting gaze, face orientation, additional people, and
 hand-held objects, with transcripts and scores stored in MongoDB.
 
-> The resume describes this project, but I could not confidently match
-> it to a public repository on this GitHub account. Add the repository
-> link here once it is available.
+
+[View repository](https://github.com/afrazhussaincodes/AI-Interviewer)
 
 ### 3. Boleto-Connect --- Employee Work & Payroll Management
 
